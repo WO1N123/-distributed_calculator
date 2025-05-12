@@ -28,7 +28,7 @@
 
 1. Откройте нужную директорию в терминале и клонируйте туда репозиторий:
 
-`git clone https://github.com/WO1N123/-distributed_calculator.git`
+`git clone https://github.com/WO1N123/distributed_calculator.git`
 
 Вы также можете скачать zip файл проекта и извлечь его в нужную директорию.
 
